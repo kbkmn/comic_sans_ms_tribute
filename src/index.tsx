@@ -1,6 +1,6 @@
 import { render } from "preact"
 import { useEffect, useRef, useState } from "preact/hooks"
-import { Audio } from "./components/Audio"
+import Audio from "./components/Audio"
 
 import "./style.css"
 
